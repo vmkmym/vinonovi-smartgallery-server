@@ -6,3 +6,6 @@
 
 ## 앱 내 갤러리에서 "파란머리의 남자"를 검색하였을 때
 <img src="https://github.com/vinonovi/smartgallery-server/assets/71699054/2f0b5021-be96-4aa3-ab65-d444fcc283c9" width="300">
+
+## 참고한 모델
+https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/233-blip-visual-language-processing
